@@ -12,7 +12,6 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 
 		<script src="assets/js/jquery.min.js"></script>
-		<script src="assets/js/jquery.csv.min.js"></script>
 
 		<script>
 
@@ -20,7 +19,7 @@
 			// read in the hack data on page load
 			$.ajax({
 					type: "GET",
-					url: "/hacks.csv",
+					url: "hacks.csv",
 					dataType: "text",
 					success: function(data) {
 						hack_data = data.split("\n")
