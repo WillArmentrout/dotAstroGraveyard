@@ -15,6 +15,38 @@
 
 		<script>
 
+		function display_random_hack(hack) {
+			// parse out the fields
+			hack_fields = hack.split(',');
+			ShortDescription = hack_fields[0];
+			LongDescription = hack_fields[1];
+			WhichConference = hack_fields[2];
+			AuthorName = hack_fields[3];
+			TwitterHandle = hack_fields[4];
+			Link = hack_fields[5];
+			TweetLink = hack_fields[6];
+
+			// update the html
+			$('h1').hide().html(ShortDescription).fadeIn('slow');
+			$('.LongDescription').hide().html(LongDescription).fadeIn('slow');
+			$('.WhichConference').hide().html(WhichConference).fadeIn('slow');
+
+			if (TwitterHandle) {
+				$('.TwitterHandle').hide().html(TwitterHandle).fadeIn('slow');
+			} else if (AuthorName) {
+				$('.TwitterHandle').hide().html(AuthorName).fadeIn('slow');
+			} else {
+				$('.TwitterHandle').hide().html('Unknown').fadeIn('slow');
+			}
+
+		}
+
+		function get_random_hack(hack_data) {
+				hack_count = hack_data.length
+				random = Math.floor(Math.random() * hack_count) + 1
+				return hack_data[random];
+			}
+
 	  $(function() {
 			// read in the hack data on page load
 			$.ajax({
@@ -23,45 +55,18 @@
 					dataType: "text",
 					success: function(data) {
 						hack_data = data.split("\n")
+						hack = get_random_hack(hack_data);
+						display_random_hack(hack);
 					}
 			 });
 
 			 $('a.button.big.scrolly').click(function() {
-	 			hack = random_hack(hack_data);
-
-				// parse out the fields
-				hack_fields = hack.split(',');
-				ShortDescription = hack_fields[0];
-				LongDescription = hack_fields[1];
-				WhichConference = hack_fields[2];
-				AuthorName = hack_fields[3];
-				TwitterHandle = hack_fields[4];
-				Link = hack_fields[5];
-				TweetLink = hack_fields[6];
-
-				// update the html
-				$('h1').hide().html(ShortDescription).fadeIn('slow');
-				$('.LongDescription').hide().html(LongDescription).fadeIn('slow');
-				$('.WhichConference').hide().html(WhichConference).fadeIn('slow');
-
-				if (TwitterHandle) {
-					$('.TwitterHandle').hide().html(TwitterHandle).fadeIn('slow');
-				} else if (AuthorName) {
-					$('.TwitterHandle').hide().html(AuthorName).fadeIn('slow');
-				} else {
-					$('.TwitterHandle').hide().html('Unknown').fadeIn('slow');
-				}
+	 			hack = get_random_hack(hack_data);
+				display_random_hack(hack);
 	 			return false;
 	 		});
 
-
-	  });
-
-		function random_hack(hack_data) {
-				hack_count = hack_data.length
-				random = Math.floor(Math.random() * hack_count) + 1
-				return hack_data[random];
-			}
+	  });  // ready
 
 	  </script>
 
@@ -87,11 +92,11 @@
 				<div class="inner">
 					<header>
 						<h1>arXiv Twitter Handles </h1>
-						<p class = "LongDescription">Match Author names to twitter handles</p>
+						<p class = "LongDescription"></p>
 						<br>
               Pitched at
-							<span class = "WhichConference">.Astronomy7</span> by
-							<span class = "TwitterHandle">@adrianprw</span>
+							<span class = "WhichConference"></span> by
+							<span class = "TwitterHandle"></span>
 						</p>
             </p>
 					</header>
