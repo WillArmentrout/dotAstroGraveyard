@@ -1,0 +1,82 @@
+ShortDescription,LongDescription,WhichConference,AuthorName,TwitterHandle,Link,TweetLink
+arXiv Twitter Handles,Match author names (from arXiv) to twitter handles,dotAstro7,Adrian Price-Whelan,@adrianprw,,https://twitter.com/adrianprw/status/662044063919554561
+ASCII APOD,Make a clone of @APOD that shows images as ASCII art instead of new-fangled JPEG / PNG,dotAstro7,Adrian Price-Whelan,@adrianprw,,https://twitter.com/adrianprw/status/662044239501529088
+Arxiv Submision Trends,"Using location / submission time data for arxiv, can you detect national holidays? the world cup?",dotAstro7,Adrian Price-Whelan,@adrianprw,,https://twitter.com/adrianprw/status/662044661805019136
+Interferometers of the World,"An ""interferometers of the world"" chart, where each image is just typical UV plane coverage",dotAstro7,Josh Peek,@jegpeek,https://github.com/dotastro/hacks-collector/blob/master/dotastro7/friendlyVRI.yml,https://twitter.com/jegpeek/status/662042987606642688
+Pointing Webforms,Check out @OSA_Ultrascope for some web forms for pointing,dotAstro7,"James Gilbert, Steven Crawford","@labjg @astrocrawford",,https://twitter.com/astrocrawford/status/662041868654407684
+Differentiate Authors,Apply some algorithm to try and differentiate authors (with the same/similar name) on the Arxiv.,dotAstro7,Andy Casey,@astrowizicist,,https://twitter.com/astrowizicist/status/662194872640774144
+Exploring Observatories,Have a *literal* VO - virtually exploring real observatories.,dotAstro7,Josh Peek,@jegpeek,,https://twitter.com/jegpeek/status/662044497983832064
+Gender Diversity,Improve Gender Diversity in Software,dotAstro7,Cormac Purcell,@AstroCormac,,https://twitter.com/AstroCormac/status/661677021806747648
+AAS Directory API,Does the AAS directory have an API (or generally some way to access data),dotAstro7,"Amy Kimball, Jennifer Piscionere","@amyekimball @JPiscionere",,https://twitter.com/amyekimball/status/662039792733917186
+Delayed Twitter Feed,Delayed Twitter feed so you can pretend you are following live X hours later!,dotAstro7,Thomas Robitaille,@AstroFrog,,https://twitter.com/astrofrog/status/661330267995373568
+Con-Index,"Con = ratio between hours of talks per day and female/male ratio among speakers. If con>10, stay home.",dotAstro8,"Dalcash Dvinsky, Lisa Ballard","@DalcashDvinsky @BasilLeaf",,https://twitter.com/dalcashdvinsky/status/745920877926227969
+Knightmare,"@Nialldeacon: ""Your hack sounds a bit like the kids TV show Knightmare""",dotAstro8,Chris Lintott,@ChrisLintott,,https://twitter.com/nialldeacon/status/745536212052508676
+Rich Citation,Need hack for rich citation extration!,dotAstro6,ASCL,@asclnet,,https://twitter.com/asclnet/status/542714199227387904
+Large Image Hosting,"large image hosting, fully tiled, astrometry.net - coordinate info - put in cloud and share - java script, web gl, 3",dotAstro6,Jonathon,,,
+Better Arxiver.net,"Arxiver.net - makes better and easier to read, willing to take ideas make it better ",dotAstro6,,,,
+Astro Guidance,awful experiences with guidance councillors - website for kids and careers advisors - links to people in the field ,dotAstro6,Grant,,,
+WWT Wrapper,Game - baked eclipse - skin wrap around WWT - web skills needed - see solar system from 3 different views - like super planetcrash,dotAstro6,,,,
+Automatic APOD,"Astro pic of the day - tumblr, reddit etc. - uniscripting to send automatic posting ",dotAstro6,,,,
+ASCL Improvement,ASCL needs making better - dashboard to provide info from ADS - statistics needed - associate codes with papers (see also list created for where codes are found),dotAstro6,,,,
+Education Game,Simple stand alone web GL education system into a game,dotAstro6,,,,
+WWT HTML,WWT - HTML embedded element using web location services and web renderer ,dotAstro6,,,,
+Emulate ApJ Improvement,Layouts and emulate ApJ environments - needs improving,dotAstro6,,,,
+Name an Exoplanet,IAU allowed us to name exoplanets - register as an astronomy group - let’s make a #dotastro group and name an exoplanet ,dotAstro6,,,,
+Arxiv for Code,Sit down with people and talk about making ArXiv for code - system for everyone to publish code for astronomy - anonymous review system to make journals and authors happy ,dotAstro6,,,,
+APOD Auto Submissions,Astro picture of the day - automatic submissions system - email deluge at the minute,dotAstro6,,,,
+Augmented Reality,Web GL augmented reality for astronomy game ,dotAstro6,,,,
+Augmented Data,Catalogue where you store data as well - upload data and object orientated to get subsets,dotAstro6,,,,
+Line Fitting Tutorial,Hogg wrote a paper a while back on how to fit a line - more complicated than it is - tutorial needed - empower people with stats tutorial ,dotAstro6,,,,
+imprep Preference,What happened to the imprep preference - intelligent inference - did it ever get published? ,dotAstro6,,,,
+Fly Through Datasets,"Fly though of SDSS - fly through Hubble UDF - one of the data sets for distance universe - GOODS South field - Hubble images in 7 bands, redshifts etc. - cool vis for astro but none of the skills to do it!",dotAstro6,,,,
+Zooniverse Disaster Images,"Zooniverse crowd sourcing disaster images - relief - rapid response important - help from the BOT to crawl social areas - help with social analysis, syntax analysis, learn when people have said something important in busy times so don’t miss",dotAstro6,Brooke,,,
+Science Verification Services,"Science verification services - improving models etc - fast turn around - here’s my new idea, computing power, here’s the result is it an improvement on previous efforts?",dotAstro6,Arfon,,,
+GZ Visualization,Visualisation for GZ data - help getting into a form that can be easily deployed to a web server ,dotAstro6,,,,
+I'm not an Astrologer,who’s been accidentally called astrologer - Chinese zodiac statues outside - mobile website to learn connection between zodiac and modern astronomy - need people with app skills ,dotAstro6,Lucy,,,
+API Crosstalk,ADS and ORCID - unique author ID identifier - super difficult to get papers in it - ADS opposite - just want APIs to talk to each other - need two things - ADS working on it? - If it works it’ll be great to have a web front end so need the skills. ,dotAstro6,,,,
+Astronomy Podcast Aggregator,podcasting - astronomy.fm - aggregator of tons of original and non-original shows - want to make this website more accessible in as many ways as possible - mobile app - browser widgets? - online coding ,dotAstro6,Jesse,,,
+Croudsourced Astro Web Archive,trillionverse.org - get ton of astro data and put it in one place - a lot of people here work on astro data and want to put it on the web - let’s not reinvent the wheel - let’s do it together,dotAstro6,Dmitri Muna,@Demitrimuna,,
+Game: Flappy Birds on Exoplanets,"Game demo astro concept and go viral by the end of the week? Thinking HTML/Java broadest reach - ton of ideas - flappy birds on alien exoplanets - welcome more ideas - art, music design need people - back story ",dotAstro6,,,,
+Peer Review Hashtag,six word peer review hashtag - analysis - cross correlation - citations - any relation?,dotAstro6,Lucy,,,
+Visualize GitHub Repositories,data set that scraped GitHub for a while - 1 1/2 mil repo and readme - visualise data? SQL database.,dotAstro6,Dan,,,
+TRAVIS Tests,simple science project which is nearly published - unit tests on code and TRAVIS (?),dotAstro6,Dan,,,
+Reinvent the Wheel (Data Interaction),I want to reinvent a wheel - image data sets - simple light weight interface to zoom in and zoom out etc. - fancy things - catalogue overlays - ability to interact with full data set - play with tech like Jango and Java script,dotAstro6,Dustin,,,
+Pages vs. Citations,Want someone to make a plot of number of pages and citations,dotAstro6,,,,
+AstroPy Web Interface,web front end in front of astropy co-ordinate system- change between coordinates,dotAstro6,Eric,,***,
+Private Notes in ADS Library,Look at ArXiv and forget what it is 6 months later -add text and save to private ADS library - parse the RSS feed and reformats to webpage - uses java script but doesn’t save the text - web services - parse the astroph feed for your hack - I can give you code. ,dotAstro6,,,,
+Modular File Renderer,Astronomy image format support to the Modular File Renderer ,dotAstro6,,,,
+ADS Reference Graph,ADS reference graph - what references do you need to add while you’re writing - which teams in your field are competing? Who’s most important in your field?,dotAstro6,,,,
+Astropy PSF Fitting,astropy - PSF fitting photometry - awesome PSF photometry fitting - use Yo to PDF fitting ,dotAstro6,Geert,,,
+Adler Scavenger Hunt,scavenger hunt of locations in Adler,dotAstro6,,,,
+Astro Career Tracker,Career prospect in astro - where do all the people go? ADS API track the careers of astronomers ,dotAstro6,Stuart Lynn,@Stuart_Lynn,,https://twitter.com/Stuart_Lynn/status/542093352380813312
+Haiku Science,since NAM make a Haiku of every paper on ArXiv since June - do they get more citations if Haiku better?,dotAstro6,Arfon,,,
+Invalid Citations,citations are crap - heavy dependancies on literature citations - invalidate whole areas of the literature? ,dotAstro6,Arfon,,,
+Claim Tracker,create a website to track claims - Science betting website - held in confidence until resolved then emailed and shamed years later ,dotAstro6,Stuart Lynn,@Stuart_Lynn,,
+Aggresive Scientists,passive aggressive remarks in papers?,dotAstro6,Rob,,,
+Translate Zooniverse,whole bunch of 15 Zooniverse projects are translatable - if anyone wants to translate let me know ,dotAstro6,Rob,,,
+Print SDSS,Print all the galaxies in SDSS specto data set,dotAstro6,Josh Peek,@jegpeek,,https://twitter.com/jegpeek/status/542125327506763776
+Adler Audio Tour,Make audio tours of Adler with specific themes,dotAstro6,Elisabeth Newton,@EllieInSpace,,https://twitter.com/EllieInSpace/status/542077862669348865
+Thesis Gif,Reduce your thesis to a gif,dotAstro6,James Davenport,@jradavenport,,https://twitter.com/jradavenport/status/542077562361368577
+Custom HTML Tags in Papers,Use custom HTML tags (web components) to write papers,dotAstro6,Stuart Lynn,@Stuart_Lynn,,https://twitter.com/vrooje/status/542045658295709696
+arXiv Rating Service,Implement a personalized arXiv rating service with easy to use web frontend,dotAstro5,Erik Tollerud,@eteq,,https://twitter.com/eteq/status/379988866964652032
+Cloud Data Reduction,Replace your data reduction machine with a cloud service,dotAstro5,Erik Tollerud,@eteq,,https://twitter.com/eteq/status/379988497068982272
+Near Earth Object Visualization,Online visualization of @MinorPlanetCtr's huge asteroid data set. Be NEOcurious! (NEO = Near Earth Object),dotAstro5,J. L. Galache,@JLGalache,,https://twitter.com/JLGalache/status/379978963378249728
+Outreach Impact,Measuring Impact in Astronomy Outreach Work,dotAstro5,WWT Ambassadors,@WWTAmbassadors,,https://twitter.com/WWTAmbassadors/status/379978874789974016
+Pretty AstroPh,"AstroPH, but pretty",dotAstro5,"Elisabeth Newton, Emily Lakdawalla","@EllieInSpace @Elakdawalla",,
+Astronomy Articles in Sky Viewer,ADS All-Sky Survey adsAAS.org Astronomy articles. In the sky. CDS Aladin Lite + WWT + Javascript,dotAstro5,Alberto Pepe,@Albertopepe,,https://twitter.com/albertopepe/status/379978742006697984
+Disambiguate ADS authors,Disambiguate ALL THE THINGS (or at least the ADS authors),dotAstro5,Chris Beaumont,@BeaumontChris,,https://twitter.com/BeaumontChris/status/379978613032222720
+Blog Aggregator,Astronomy blog aggregator/incubator,dotAstro5,Elisabeth Newton,@EllieInSpace,,https://twitter.com/EllieInSpace/status/379978568530669568
+Recruit a Citizen Scientist,App to match citizen scientists with specialized skills with pros looking for someone with said skills,dotAstro5,Ken Hudson,@Shareastronomy,,https://twitter.com/shareastronomy/status/379978481506861056
+Infer Spatial Bias,Infer spatial bias of known populations of stars/galaxies/asteroids using Astorquery & ADS API,dotAstro5,Geert Barentsen,@GeertHub,,https://twitter.com/GeertHub/status/379948049000591360
+Recruit an Amateur Astronomer,Scientific collaborations between amateur and professional astronomers.,dotAstro5,Pedro Russo,@pruss,http://t.co/gkemPxcX87,https://twitter.com/pruss/status/379852305749008384
+Acknowledgement Thank Yous!,Find who thanked you in the Acknowledgements!,dotAstro5,Josh Peek,@jegpeek,,https://twitter.com/jegpeek/status/379727057812332544
+Javascript Photosynthesis,Implement working photosynthesis in JavaScript. Or an actual CNO chain.,dotAstro5,Demitri Muna,@DemitriMuna,,
+Astro Global Hack,Simultaneous worldwide Astronomy hack-a-thon,dotAstro4,Kevin Govender,@govender,,https://twitter.com/govender/status/223070532579495937
+Enigma,Enigma: Decrypting Your Astrdata Automatically,dotAstro4,Eli B,,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Historical ADS Zooniverse,ADS All-Sky Survey: Classifying Images in Historical ADS Holding with Zooniverse (Proto Tool),dotAstro4,Alberto P. & Alyssa G.,,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Outreach Matchmaking,Matchmaking hack to connect scientists with outreach audiences world-wide,dotAstro4,Kevin Govender,,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Data Challenge,Data Challenge with Zoo data (Kaggle),dotAstro4,Tom K,,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Paper Reviewer Attribution,Reputation/Attribution for Paper Reviewers,dotAstro4,Peter M,,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Data Exchange Framework,"Database-based framework to exchange arbitrary data between Python, R, IDL, etc. on local and/or remote machines",dotAstro4,Demitri Muna,,https://www.flickr.com/photos/astronomyblog/7541666828/,
+arXiv Annotation,Online annotated arXiv papers,dotAstro4,"Peter, Alex, Tom",,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Udacity Astronomy Course,Udacity-like/PCPU Astronomy Courses,dotAstro4,Daniel Perez-Sudrez,,https://www.flickr.com/photos/astronomyblog/7541666828/,
