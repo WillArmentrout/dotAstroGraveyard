@@ -54,7 +54,7 @@
 					url: "hacks.csv",
 					dataType: "text",
 					success: function(data) {
-						hack_data = data.split("\n")
+						hack_data = data.split("\n");
 						hack = get_random_hack(hack_data);
 						display_random_hack(hack);
 					}
