@@ -1,0 +1,115 @@
+ShortDescription,LongDescription,WhichConference,AuthorName,TwitterHandle,Link,TweetLink
+AstroCaptchas,Create astronomy based Captchas,.Astronomy 2,Mark Sands,@marksands,,https://twitter.com/marksands/status/6197453093
+Twitter Lemming,"Create a Twitter ""lemming"" that follows every Twitter account in existence",.Astronomy 3,Markus Pössel,@mpoessel,,
+Global Astro Hack,Simultaneous worldwide Astronomy hack-a-thon,.Astronomy 4,Kevin Govender,@govender,,https://twitter.com/govender/status/223070532579495937
+Enigma,Enigma: Decrypting Your Astrdata Automatically,.Astronomy 4,Eli Bressert,@astrobiased,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Historical ADS Zooniverse,ADS All-Sky Survey: Classifying Images in Historical ADS Holding with Zooniverse (Proto Tool),.Astronomy 4,Alberto Pepe and Alyssa Goodman,@Albertopepe @aagie,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Outreach Matchmaking,Matchmaking hack to connect scientists with outreach audiences world-wide,.Astronomy 4,Kevin Govender,@govender,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Data Challenge,Data Challenge with Zoo data (Kaggle),.Astronomy 4,Tom Kitching,@tom_kitching,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Paper Reviewer Attribution,Reputation/Attribution for Paper Reviewers,.Astronomy 4,Peter M,,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Data Exchange Framework,Database-based framework to exchange arbitrary data between Python; R; IDL; etc on local and/or remote machines,.Astronomy 4,Demitri Muna,@DemitriMuna,https://www.flickr.com/photos/astronomyblog/7541666828/,
+arXiv Annotation,Online annotated arXiv papers,.Astronomy 4,Peter and Alex and Tom,,https://www.flickr.com/photos/astronomyblog/7541666828/,
+Udacity Astronomy Course,Udacity-like/PCPU Astronomy Courses,.Astronomy 4,Daniel Perez-Sudrez,,https://www.flickr.com/photos/astronomyblog/7541666828/,
+arXiv Rating Service,Implement a personalized arXiv rating service with easy to use web frontend,.Astronomy 5,Erik Tollerud,@eteq,,https://twitter.com/eteq/status/379988866964652032
+Cloud Data Reduction,Replace your data reduction machine with a cloud service.,.Astronomy 5,Erik Tollerud,@eteq,,https://twitter.com/eteq/status/379988497068982272
+Near Earth Object Visualization,Online visualization of @MinorPlanetCtr's huge asteroid data set. Be NEOcurious! (NEO = Near Earth Object),.Astronomy 5,J. L. Galache,@JLGalache,,https://twitter.com/JLGalache/status/379978963378249728
+Outreach Impact,Measure the impact of Astronomy Outreach Work.,.Astronomy 5,WWT Ambassadors,@WWTAmbassadors,,https://twitter.com/WWTAmbassadors/status/379978874789974016
+Pretty AstroPh,AstroPH but pretty,.Astronomy 5,Elisabeth Newton and Emily Lakdawalla,@EllieInSpace @Elakdawalla,,
+Astronomy Articles in Sky Viewer,ADS All-Sky Survey adsAAS.org Astronomy articles. In the sky. CDS Aladin Lite + WWT + Javascript,.Astronomy 5,Alberto Pepe,@Albertopepe,,https://twitter.com/albertopepe/status/379978742006697984
+Disambiguate ADS authors,Disambiguate ALL THE THINGS (or at least the ADS authors).,.Astronomy 5,Chris Beaumont,@BeaumontChris,,https://twitter.com/BeaumontChris/status/379978613032222720
+Blog Aggregator,Astronomy blog aggregator/incubator,.Astronomy 5,Elisabeth Newton,@EllieInSpace,,https://twitter.com/EllieInSpace/status/379978568530669568
+Recruit a Citizen Scientist,App to match citizen scientists with specialized skills with pros looking for someone with said skills.,.Astronomy 5,Ken Hudson,@Shareastronomy,,https://twitter.com/shareastronomy/status/379978481506861056
+Infer Spatial Bias,Infer spatial bias of known populations of stars/galaxies/asteroids using Astorquery & ADS API.,.Astronomy 5,Geert Barentsen,@GeertHub,,https://twitter.com/GeertHub/status/379948049000591360
+Recruit an Amateur Astronomer,Foster scientific collaborations between amateur and professional astronomers.,.Astronomy 5,Pedro Russo,@pruss,http://t.co/gkemPxcX87,https://twitter.com/pruss/status/379852305749008384
+Acknowledgement Thank Yous!,Find/email who thanked you in the Acknowledgements and thank them!,.Astronomy 5,Josh Peek,@jegpeek,,https://twitter.com/jegpeek/status/379727057812332544
+Javascript Photosynthesis,Implement working photosynthesis or an actual CNO chain in JavaScript.,.Astronomy 5,Demitri Muna,@DemitriMuna,,
+Rich Citation,Create a hack for rich citation extration!,.Astronomy 6,Alice Allen,@asclnet,,https://twitter.com/asclnet/status/542714199227387904
+Large Image Hosting,Create large fully-tiled images through astrometry.net (Using java script and web gl).,.Astronomy 6,Jonathon Fay,@astrojonathon,,
+Better arXiver.net,Make arXiver.net easier to read.,.Astronomy 6,,,,
+Astro Guidance,Had awful experiences with guidance councilors. Create a website for kids and careers advisors with links to people in the field.,.Astronomy 6,Grant Miller,@mrniaboc,,
+WWT Wrapper,Create a game-based wrapper for the Worldwide Telescope showing the Solar System from multiple views (super planetcrash),.Astronomy 6,,,,
+ASCL Improvement,Give ASCL a dashboard to provide info from ADS - give paper stats - associate code with papers.,.Astronomy 6,,,,
+Education Game,Create a simple stand-alone educational game with web GL.,.Astronomy 6,,,,
+WWT HTML,Embed web location services and web renderer into the Worldwide Telescope.,.Astronomy 6,,,,
+Emulate ApJ Improvement,Improve layouts on emulate ApJ environments.,.Astronomy 6,,,,
+Name an Exoplanet,Register #dotAstro as an astronomy group with IAU and name an exoplanet,.Astronomy 6,,,,
+Arxiv for Code,Create an arXiv for code - system for everyone to publish code for astronomy - anonymous review system to make journals and authors happy ,.Astronomy 6,,,,
+APOD Auto Submissions,Online form for submitting Astro Photo of the Day rather than using email,.Astronomy 6,,,,
+Augmented Reality,Augmented reality astronomy game using Web GL,.Astronomy 6,,,,
+Augmented Data,Easy to use interface to upload 3D data catalogs for augmented reality,.Astronomy 6,,,,
+Line Fitting Tutorial,"Empower people with stats tutorial. Create a tutorial around Hogg's ""How to Fit a Line"" paper.",.Astronomy 6,,,,
+Fly Through Datasets,Fly-though of SDSS; Hubble Ultra-Deep Field; Hubble images in 7 bands; one of the data sets for distant Universe; GOODS South field; redshifts; etc.,.Astronomy 6,,,,
+Science Verification Services,Improving astronomical models with science verification services (fast turnaround),.Astronomy 6,Arfon Smith,@arfon,,
+I'm not an Astrologer,Who has been called an astrologer? Create a mobile app to learn connections/differences between zodiacs and modern astronomy. ,.Astronomy 6,Lucy,,,
+API Crosstalk,ADS and ORCID - unique author ID identifier - super difficult to get papers in it - ADS opposite - just want APIs to talk to each other - need two things - ADS working on it? - If it works it’ll be great to have a web front end so need the skills. ,.Astronomy 6,,,,
+Astronomy Podcast Aggregator,Astronomy.fm - web app aggregator of tons of original and non-original shows.,.Astronomy 6,Jesse Rogerson,@jesserogerson,,
+Game: Flappy Birds on Exoplanets,Flappy birds on Alien Exoplanets -  HTML/Java for broadest reach - Need art; music; design; back story; and people.,.Astronomy 6,,,,
+Visualize GitHub Repositories,Scraped Astronomy GitHub Repos to visualise package use and documentation.,.Astronomy 6,Dan Foreman-Mackey,@exoplaneteer,,
+TRAVIS Tests,Create a simple science project using TRAVIS.,.Astronomy 6,Dan Foreman-Mackey,@exoplaneteer,,
+Reinvent the Wheel (Data Interaction),I want to reinvent *a* wheel to image data sets. Use a simple light weight interface to zoom in and zoom out and overlay catalogs (use Jango and Javascript).,.Astronomy 6,Dustin Lang,@dstndstn,,
+Pages vs. Citations,Scrape ADS to compare number of pages in a paper with the number of citatations.,.Astronomy 6,,,,
+AstroPy Coordinate Transform,Create a web front-end for AstroPy coordinate transformations.,.Astronomy 6,Eric Tollerud,@eteq,***,
+Private Notes in ADS Library,Make notes on arXiv articles and save to private ADS library.,.Astronomy 6,,,,
+Modular File Renderer,Astronomy image format support to the Modular File Renderer ,.Astronomy 6,,,,
+ADS Reference Graph,What references should you add while you’re writing? Which teams in your field are competing? Automatically suggest articles to cite based on a manuscript.,.Astronomy 6,,,,
+Astropy PSF Fitting,Incorporate PSF fitting photometry into AstroPy.,.Astronomy 6,Geert Barenston,@GeertHub,,
+Astro Career Tracker,Track the career paths of astronomers. Where do all the people go?,.Astronomy 6,Stuart Lynn,@Stuart_Lynn,,https://twitter.com/Stuart_Lynn/status/542093352380813312
+Better Haiku / Better Science,There are haikus of every paper on ArXiv in Summer 2014. Do better haikus correspond with more citations?,.Astronomy 6,Arfon,@arfon,,
+Invalid Citations,Modify how we determine paper impact (not based soley on citations) since there are heavy dependencies on literature citations.,.Astronomy 6,Arfon,@arfon,,
+Science Betting Website,Create a website to track claims and bet on science results. Payouts at conferences.,.Astronomy 6,Stuart Lynn,@Stuart_Lynn,,
+Aggresive Scientists,Track and flag passive aggressive remarks in papers.,.Astronomy 6,Rob Simpson,@orbitingfrog,,
+Translate Zooniverse,Translate Zooniverse projects into other languages.,.Astronomy 6,Rob Simpson,@orbitingfrog,,
+Print SDSS,3D print *all* the galaxies in SDSS specto data set.,.Astronomy 6,Josh Peek,@jegpeek,,https://twitter.com/jegpeek/status/542125327506763776
+Adler Audio Tour,Make audio tours of Adler Planetarium with specific themes.,.Astronomy 6,Elisabeth Newton,@EllieInSpace,,https://twitter.com/EllieInSpace/status/542077862669348865
+Thesis Gif,Reduce your thesis to a gif.,.Astronomy 6,James Davenport,@jradavenport,,https://twitter.com/jradavenport/status/542077562361368577
+Custom HTML Tags in Papers,Use custom HTML tags (web components) to write papers,.Astronomy 6,Stuart Lynn,@Stuart_Lynn,,https://twitter.com/vrooje/status/542045658295709696
+arXiv Twitter Handles,Match author names (from arXiv) to twitter handles,.Astronomy 7,Adrian Price-Whelan,@adrianprw,,https://twitter.com/adrianprw/status/662044063919554561
+ASCII APOD,Make a clone of @APOD that shows images as ASCII art instead of new-fangled JPEG / PNG.,.Astronomy 7,Adrian Price-Whelan,@adrianprw,,https://twitter.com/adrianprw/status/662044239501529088
+Arxiv Submision Trends,Using location / submission time data for arXiv can you detect national holidays? the world cup?,.Astronomy 7,Adrian Price-Whelan,@adrianprw,,https://twitter.com/adrianprw/status/662044661805019136
+Interferometers of the World,"Make an ""interferometers of the world"" chart where each image is typical UV plane coverage.",.Astronomy 7,Josh Peek,@jegpeek,https://github.com/dotastro/hacks-collector/blob/master/dotastro7/friendlyVRI.yml,https://twitter.com/jegpeek/status/662042987606642688
+Differentiate Authors,Apply some algorithm to try and differentiate authors (with the same/similar name) on the Arxiv.,.Astronomy 7,Andy Casey,@astrowizicist,,https://twitter.com/astrowizicist/status/662194872640774144
+Exploring Observatories,Have a *literal* VO - virtually exploring real observatories.,.Astronomy 7,Josh Peek,@jegpeek,,https://twitter.com/jegpeek/status/662044497983832064
+Gender Diversity,Improve gender diversity in software creation teams.,.Astronomy 7,Cormac Purcell,@AstroCormac,,https://twitter.com/AstroCormac/status/661677021806747648
+AAS Directory API,Hack the AAS directory API to pull out member data.,.Astronomy 7,Amy Kimball and Jennifer Piscionere,@amyekimball @JPiscionere,,https://twitter.com/amyekimball/status/662039792733917186
+Delayed Twitter Feed,Delay your Twitter feed so you can pretend you are following live (X) hours later!,.Astronomy 7,Thomas Robitaille,@AstroFrog,,https://twitter.com/astrofrog/status/661330267995373568
+Con-Index,Con = ratio between hours of talks per day and female/male ratio among speakers. If con>10 stay home.,.Astronomy 8,Dalcash Dvinsky and Lisa Ballard,@DalcashDvinsky @BasilLeaf,,https://twitter.com/dalcashdvinsky/status/745920877926227969
+Knightmare,"@Nialldeacon: ""Your hack sounds a bit like the kids TV show Knightmare.""",.Astronomy 8,Chris Lintott,@ChrisLintott,,https://twitter.com/nialldeacon/status/745536212052508676
+African Skies,"Develop a ""Sky Guide for Africa"" app.",.Astronomy 9,Melo Mtombeni,@MtomMelo,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Multi-Telescope Archive,Look at creating a pipeline/archive to gather data from different telescopes.,.Astronomy 9,Wilhelmina Ndapewa Nekoto,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+"""Where do I know you from?""",Create an app where you can input all the conferences you’ve been to cross-check conference lists with others.,.Astronomy 9,Michelle Lochner,@doc__loc,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Supernova Foundation,Updating tools used by the Supernova Foundation.,.Astronomy 9,Michelle Lochner,@doc__loc,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Radio Sky Planetarium,Create a planetarium show for the Southern Radio Sky.,.Astronomy 9,Catherine Cress,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Astrology PhD,Represent your PhD topic through the guise of astrology.,.Astronomy 9,Catherine Cress,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Astro Girls Who Code,"Develop a toolkit to show that coding isn't ""geeky,"" directed at 12 year old girls.",.Astronomy 9,Catherine Cress,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Legal Expertise,Develop a best practices document to direct scientists and departments towards legal expertise.,.Astronomy 9,Catherine Cress,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Digitizing Early Research,"While digitizing and transcribing early astronomy research, can we use computer vision to add alt-text? What about adding context from the people transcribing it?",.Astronomy 9,Daina Bouquin,@DainaBouquin,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Acronym Glossary,Develop a searchable glossary of jargon-y words and acronyms from science papers.,.Astronomy 9,Jordan Collier,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Tympanic Time Series,Represent astronomical time series with drumming,.Astronomy 9,Jordan Collier,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+World Sundials,Develop a wordpress plugin for sundials. The shape and orientation of sundials change with geographic location. Develop a plugin that would determine the shape of a sundial for any location on Earth.,.Astronomy 9,Christian Hettlage,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+African Language Support,node.js is missing African languages. Add them in!,.Astronomy 9,Christian Hettlage,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Astroquery Archives,Add data archives to Astroquery,.Astronomy 9,Brigitta Sipocz,@AstroBrigi,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Indigenous Astronomy Planetarium Show,Create a planetarium show for Iziko that includes Xhosa sky knowledge as well as current research happening in South Africa.,.Astronomy 9,Kosma von Maltitz,@Kosmavm,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+UN Planetarium Content,Help with Planetarium/VR content being prepared for the upcoming United Nations Environmental Summit in Nairobi.,.Astronomy 9,Susan Murabona Oduori,@smurabana,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Keep LIGO Exciting!,"With each new LIGO source, the excitement levels go down. How do we keep new astronomical announcements exciting?",.Astronomy 9,Chris Lintott,@ChrisLintott,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Sustainable Astronomy Tools,"Best practices to ease the transition to new astronomy tools (Jupyter notebooks, etc) so they are sustainable and viable alternatives.",.Astronomy 9,Senior Shimhanda,@MACcroScience,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Gravitational Pull App,App showing the gravitational pull of nearby astronomical objects on you at any given time.,.Astronomy 9,Samir Dhurde,@SamirDhurde,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Astronomy / Art,Gallery of astronomy artwork.,.Astronomy 9,Samir Dhurde,@SamirDhurde,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Astrophotography FITS Headers,"Create a dslr to fits file converter, with telescope information added",.Astronomy 9,Samir Dhurde,@SamirDhurde,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+The Life and Times of Photons,Create a game showing the journey of a solar photon from the center of the Sun the the Earth.,.Astronomy 9,Samir Dhurde,@SamirDhurde,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+"""When will I ever use this math again?""",Design a platform showing the link between high school math concepts and work done in professional astronomy research.,.Astronomy 9,Samir Dhurde,@SamirDhurde,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Astro of Olde,Catalog of grave sites of astronomy figures in Africa,.Astronomy 9,Samir Dhurde,@SamirDhurde,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Astro Job Visualization,Create a visualization comparing the number of astronomy jobs with student/staff growth.,.Astronomy 9,Rosalind Skelton,@skelly_ros,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Astronomy-Industrial Complex,Create a network of mentors in industries outside astronomy.,.Astronomy 9,Ben Cook,@bacook17,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Extended Planetarium Objects,How can we better represent extended objects in the planetarium? ,.Astronomy 9,Charl Cater,@c_h_a_r_l,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Data Fitting,Discuss how to fit models to data and how to label different model fits.,.Astronomy 9,Maria Kapala,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Science Mentors,Help match science mentors to students,.Astronomy 9,Palesa Nombula,@p_nombula,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+IAU Inclusion Resolution,Help draft language for IAU resolution about inclusion,.Astronomy 9,Kevin Govender,@govender,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Astro Tool Sharing,Brainstorm ways to cross correlate tools across different astronomy subfields.,.Astronomy 9,Kevin Govender,@govender,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Astronomy Circles,Bridge social circles between groups in astronomy.,.Astronomy 9,Kevin Govender,@govender,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Fake AstroNews,Generate fake astronomy article titles with a neural network,.Astronomy 9,Daina Bouquin,@DainaBouquin,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+SALT Submissions,Script for fast SALT submissions,.Astronomy 9,Christian Hettlage,,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Who should we hire?,Can we predict the lifetime productivity based on the first 5 years? Draw on historical ADS publications to look at trends in an individual's lifetime publications based off of their first five years in the field.,.Astronomy 9,Bruce Bassett,@cosmo_bruce,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Supervising the 'Zoo.,Galazy Zoo currently employs supervised machine learning methods. Can we add in unsupervised learning?,.Astronomy 9,Bruce Bassett,@cosmo_bruce,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+pix2pix,Adapt pix2pix to create profile photos / headshots.,.Astronomy 9,Arna Karick,@drarnakarick and @techsavvyastro,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+Research Narratives,Develop a list of best practices for personal research narratives.,.Astronomy 9,Sarah Kendrew and Brian Nord,@sarahkendrew,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
+SED Fitting of Confused Sources,How can we do multi-wavelength SED fitting when things have different resolutions in different bands?,.Astronomy 9,Rafael Martínez-Galarza and Demitri Muna,@juramaga and @demitrimuna,https://docs.google.com/document/d/1EISNXLgYa5A5VdwXdhwB3RFiLLKTOJUaT9cLTN0OGXg/edit,
